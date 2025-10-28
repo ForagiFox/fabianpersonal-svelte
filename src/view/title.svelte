@@ -7,6 +7,10 @@
 			<div class="flex justify-center items-center h-screen flex-col">
 				<h1 class="lg:text-7xl text-3xl font-bold text-black">Knoyan Mitsu</h1>
 				<h1 class="lg:text-4xl text-2xl font-normal text-black">Personal Website</h1>
+				<a
+					href=http://localhost:5173/cv
+					class="bg-black rounded-full mt-3 w-64 text-center h-10 flex items-center justify-center gap-2 text-white font-semibold hover:bg-gray-800 transition-colors"
+				>Show CV ATS</a>	
 			</div>
 			<!-- Ikon panah di bagian bawah -->
 			<div
