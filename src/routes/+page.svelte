@@ -15,7 +15,7 @@
 
 </script>
 <svelte:head>
-	<title>Knoyan Mitsu | {quote}</title>
+	<title>Fabian Ananda Merdana | {quote}</title>
 </svelte:head>
 
 <Home />
