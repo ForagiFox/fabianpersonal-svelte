@@ -6,7 +6,7 @@
 
 <div class="lg:snap-start h-screen relative">
 			<div class="flex justify-center items-center h-screen flex-col">
-				<h1 class="lg:text-7xl text-3xl font-bold text-black">Knoyan Mitsu</h1>
+				<h1 class="lg:text-7xl text-3xl font-bold text-black">Fabian Ananda Merdana</h1>
 				<h1 class="lg:text-4xl text-2xl font-normal text-black">Personal Website</h1>
 				<a
 					href='/cv'

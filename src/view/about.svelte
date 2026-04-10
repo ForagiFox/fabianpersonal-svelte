@@ -9,7 +9,7 @@
 	<div class="bg-white shadow-xl rounded-md flex flex-wrap justify-center">
 		<div class="px-7 py-4">
 			<img src="profile.png" alt="" class="w-52 mb-6 h-52 rounded-xl" srcset="" />
-			<h1 class="text-3xl font-bold text-black">Knoyan Mitsu</h1>
+			<h1 class="text-3xl font-bold text-black">Fabian Ananda Merdana</h1>
 			<p class="text-xl text-black">I am a Web Developer.</p>
 		</div>
 		<div></div>
@@ -20,11 +20,7 @@
 			<pre
 				class="whitespace-break-spaces">I am a passionate Website Developer with interests in Web Design, Front-End Development, and Back-End Development. While I still have much to learn, I am always eager to grow and improve.
     
-I am proficient in PHP (particularly using Laravel) and have experience working with JavaScript (using Vue.js, still learning) as well as HTML5. In addition, I am exploring mobile application development using Flutter (still a beginner but highly motivated to learn).
-    
-Beyond coding, I have a creative side: I enjoy drawing scenery, and this creative side make me relax
-    
-This blend of technical skills and creativity defines who I am and drives my passion for building functional yet visually appealing solutions.
+I am proficient in PHP (particularly using Laravel) and have experience working with JavaScript (particularly using NextJS and Vue.js) as well as HTML5.
     </pre>
 		</div>
 		<div class="grid lg:grid-cols-2 gap-3">
@@ -38,10 +34,6 @@ This blend of technical skills and creativity defines who I am and drives my pas
 					<div class="flex items-center flex-col">
 						<Icon size="40" src={SiSvelte} />
 						<p class="text-black font-semibold">Web Development</p>
-					</div>
-					<div class="flex items-center flex-col">
-						<Icon size="40" src={IoColorPalette} />
-						<p class="text-black font-semibold">Drawing</p>
 					</div>
 				</div>
 			</div>

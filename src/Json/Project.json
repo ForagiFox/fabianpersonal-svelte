@@ -53,34 +53,6 @@
 	},
 	{
 		"id": 5,
-		"image": "E122.jpg",
-		"title": "E122 aka Frontend e926.net with Flutter",
-		"year": "2023",
-		"description": "A mobile app e926.net with Flutter. i made this for Learn connect API to Flutter",
-		"isPublic": true,
-		"isLive": false,
-		"languages": ["Flutter", "Dart"],
-		"link": {
-			"website": "",
-			"source_code": "https://github.com/KnoyanMitsu/E122"
-		}
-	},
-	{
-		"id": 6,
-		"image": "Bluesky.png",
-		"title": "Skycloud Frontend bluesky with Flutter",
-		"year": "2024",
-		"description": "A social media app mobile with flutter. this app connect with bluesky API",
-		"isPublic": true,
-		"isLive": false,
-		"languages": ["Flutter", "Dart"],
-		"link": {
-			"website": "",
-			"source_code": "https://github.com/KnoyanMitsu/SkyCloud"
-		}
-	},
-	{
-		"id": 7,
 		"image": "Personal.jpg",
 		"title": "Personal Portfolio Website with Vue.js",
 		"year": "2025",
@@ -91,6 +63,19 @@
 		"link": {
 			"website": "https://knoyan.vercel.app",
 			"source_code": "https://github.com/KnoyanMitsu/knoyanpersonal"
+		}
+	},
+		{
+		"id": 6,
+		"image": "CIVIID.jpg",
+		"title": "Aplikasi cek profile melalui Scan QR dan Mendeteksi Gender",
+		"year": "2025",
+		"description": "Apliksai cek profile melalui Scan QR dan Mendeteksi Gender dengan Naive Bayes dan PCA",
+		"isPublic": true,
+		"isLive": false,
+		"languages": ["Flutter","Python"],
+		"link": {
+			"source_code": "https://github.com/KnoyanMitsu/civiid"
 		}
 	}
 ]
