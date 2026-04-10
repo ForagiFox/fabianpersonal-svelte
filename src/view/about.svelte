@@ -8,7 +8,7 @@
 <div class="grid gap-3 lg:grid-cols-4">
 	<div class="bg-white shadow-xl rounded-md flex flex-wrap justify-center">
 		<div class="px-7 py-4">
-			<img src="profile.png" alt="" class="w-52 mb-6 h-52 rounded-xl" srcset="" />
+			<img src={import.meta.env.VITE_URL} alt="" class="object-fill w-52 mb-6 h-52 rounded-xl" srcset="" />
 			<h1 class="text-3xl font-bold text-black">Fabian Ananda Merdana</h1>
 			<p class="text-xl text-black">I am a Web Developer.</p>
 		</div>
