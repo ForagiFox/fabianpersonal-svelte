@@ -67,7 +67,7 @@
 	},
 		{
 		"id": 6,
-		"image": "CIVIID.jpg",
+		"image": "CIVIID.png",
 		"title": "Aplikasi cek profile melalui Scan QR dan Mendeteksi Gender",
 		"year": "2025",
 		"description": "Apliksai cek profile melalui Scan QR dan Mendeteksi Gender dengan Naive Bayes dan PCA",
