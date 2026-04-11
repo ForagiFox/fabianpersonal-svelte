@@ -1,26 +1,24 @@
 <script>
-	import Title from '../view/title.svelte';
-	import About from '../view/about.svelte';
-	import ProjectView from '../view/project.svelte';
-	import ContactView from '../view/contact.svelte';
+	import Navbar from './Navbar.svelte';
+	import Title from './title.svelte';
+	import About from './about.svelte';
+	import Contact from './contact.svelte';
+	import Project from './project.svelte';
 </script>
+<Navbar />
+<div class="h-screen w-full overflow-y-scroll overflow-x-hidden scroll-smooth lg:snap-y lg:snap-mandatory">
+	<Title />
 
-<div class="lg:overflow-y-scroll lg:snap-y lg:snap-mandatory h-screen lg:w-screen">
-	<div class="container mx-auto">
-		<Title />
-		<div class="lg:snap-start lg:h-screen justify-center items-center flex mb-8">
-			<About />
-		</div>
-		<div class="lg:snap-start lg:h-screen lg:py-8">
-			<h1 class="text-3xl font-bold flex items-center justify-center mb-9 lg:mb-2 text-black">
-				Projects
-			</h1>
-			<div class=" overflow-scroll h-[90%] lg:py-24">
-				<ProjectView />
-			</div>
-		</div>
-		<div class="lg:snap-start lg:h-screen justify-center items-center flex mb-8">
-			<ContactView />
-		</div>
-	</div>
+	<section id="about" class="flex min-h-screen items-center justify-center bg-gray-50 p-4 lg:snap-start lg:p-8">
+		<About />
+	</section>
+
+	<section id="projects" class="flex min-h-screen items-center justify-center bg-gray-100 p-4 lg:snap-start lg:p-8">
+		<Project />
+	</section>
+
+	<section id="contact" class="flex min-h-screen items-center justify-center bg-gray-50 p-4 lg:snap-start lg:p-8">
+		<Contact />
+	</section>
 </div>
+

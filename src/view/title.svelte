@@ -1,10 +1,10 @@
 <script>
   import { IoArrowDownSharp } from 'svelte-icons-pack/io';
 	import { Icon } from 'svelte-icons-pack';
-	import { redirect } from '@sveltejs/kit';
+
 </script>
 
-<div class="lg:snap-start h-screen relative">
+<div id="home" class="lg:snap-start h-screen relative">
 			<div class="flex justify-center items-center h-screen flex-col">
 				<h1 class="lg:text-7xl text-3xl font-bold text-black">Fabian Ananda Merdana</h1>
 				<h1 class="lg:text-4xl text-2xl font-normal text-black">Personal Website</h1>
@@ -21,4 +21,3 @@
 				<Icon size="40" src={IoArrowDownSharp} />
 			</div>
 </div>
-
