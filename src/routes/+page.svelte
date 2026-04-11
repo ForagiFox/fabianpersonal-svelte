@@ -10,6 +10,7 @@
 			quote = quotesData;
 		} catch (error) {
 			console.error('Failed to fetch quotes:', error.message);
+			
 		}
 	});
 
