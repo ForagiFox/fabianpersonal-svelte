@@ -79,17 +79,16 @@
 		}
 	},
 		{
-		"id": 6,
-		"image": "Bluesky.png",
-		"title": "Skycloud Frontend bluesky with Flutter",
-		"year": "2024",
-		"description": "A social media app mobile with flutter. this app connect with bluesky API",
+		"id": 7,
+		"image": "https://private-user-images.githubusercontent.com/65282316/586762534-e2dbeac4-f5ca-4015-9756-6d244a4c8011.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkwMTkyNzksIm5iZiI6MTc3OTAxODk3OSwicGF0aCI6Ii82NTI4MjMxNi81ODY3NjI1MzQtZTJkYmVhYzQtZjVjYS00MDE1LTk3NTYtNmQyNDRhNGM4MDExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE3VDExNTYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3YjRmMjcyYjE1MDFmNmU3YmY4YzViYzE0MWE2MDEyMzdlMjk2MmU3NGMwNTE1NDRiMTA5M2I1ZGNlNzZlMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.U3750KVafEdCF74TjvfPwNPsoxpzCPKnrgjKdq-lv2A",
+		"title": "Yet Another Simple Note",
+		"year": "2026",
+		"description": "Yet Another Simple Note with React JS and can upload to MongoDB",
 		"isPublic": true,
 		"isLive": false,
-		"languages": ["Flutter", "Dart"],
+		"languages": ["React JS","Express JS"],
 		"link": {
-			"website": "",
-			"source_code": "https://github.com/KnoyanMitsu/SkyCloud"
+			"source_code": "https://github.com/KnoyanMitsu/yet-another-simple-note"
 		}
-	}
+	},
 ]
